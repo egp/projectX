@@ -1,2 +1,10 @@
 .generated_files
-.generated_files/*
+.generated_files/
+.generated_files/**
+build
+build/
+build/**
+dist
+dist/
+dist/**
+nbproject/private/private.xml
