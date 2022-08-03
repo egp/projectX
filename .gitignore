@@ -1,6 +1,9 @@
 .generated_files
 .generated_files/
 .generated_files/**
+mcc_generated_files
+mcc_generated_files/
+mcc_generated_files/**
 build
 build/
 build/**
