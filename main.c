@@ -281,7 +281,7 @@ static void PrintHeader(void)
     printf("\033[?25l");    //disable cursor
         
     printf("------------------------------------------------------------------\r\n");
-    printf("dsPIC33CK Curiosity Development Board Demonstration               \r\n");
+    printf("dsPIC33CK Curiosity Development Board Demo                        \r\n");
     printf("------------------------------------------------------------------\r\n");
     printf("S1 - controls LED1\r\n");
     printf("S2 - controls LED2\r\n");
